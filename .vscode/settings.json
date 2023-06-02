@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\New folder\\các thành phần phần mềm\\jcommon-1.0.23.jar",
+        "d:\\New folder\\các thành phần phần mềm\\jfreechart-1.5.0.jar",
+        "d:\\New folder\\các thành phần phần mềm\\mysql-connector-java-8.0.24.jar"
+    ]
+}
